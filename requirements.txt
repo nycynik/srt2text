@@ -1,0 +1,6 @@
+appdirs==1.4.0
+chardet==2.3.0
+packaging==16.8
+pyparsing==2.1.10
+pysrt==1.1.1
+six==1.10.0
